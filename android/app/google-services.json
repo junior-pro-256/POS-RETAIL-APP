@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776430631615",
+    "project_id": "pros-retail-app",
+    "storage_bucket": "pros-retail-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776430631615:android:11fe4b2a4aa8d43fa5240a",
+        "android_client_info": {
+          "package_name": "com.example.pos_retail_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_II2IQr1rohP4NqH9M1nFGmeM1LA023k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
